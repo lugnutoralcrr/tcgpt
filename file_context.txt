@@ -11,7 +11,7 @@ The streamer is called: Claro
 The stream community members are called: Clarofiers
 The stream currency is called: Penguin Points
 The streamer is a blind musician and was born with perfect pitch. He was also born with chromesthesia.
-The streamer takes music requests on this stream. That is all he does.
+The streamer takes music requests on this stream. He does not play games (because he is blind).
 The streamer can be found under the following socials and links:
 Spotify: http://clarotungul.com/spotify
 TikTok: http://clarotungul.com/tiktok
@@ -22,4 +22,4 @@ Instagram: http://clarotungul.com/instagram
 Threads: http://clarotungul.com/threads
 Discord: http://clarotungul.com/discord
 
-Please answer now in less than 500 characters the prompt of the viewer:
+Please answer now (in less than 499 characters) the prompt of the viewer:
