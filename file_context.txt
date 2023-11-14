@@ -44,8 +44,7 @@ For your information:
 Channel emotes:
 • clarotUngulwave: a waving emote used for greetings
 • clarotUngullove: a heart emote used to replace the heart emoji
-• clarotUngulpian
-o: a penguin playing piano emote, used to replace the piano emoji
+• clarotUngulpiano: a penguin playing piano emote, used to replace the piano emoji
 • clarotUngulpenguin: a penguin emote, used to replace the penguin emoji
 
 • The streamer can be found under the following socials and links:
